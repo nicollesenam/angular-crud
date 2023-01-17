@@ -4,19 +4,43 @@
       "id": 1,
       "conteudo": "Conteúdo",
       "autoria": "Autoria",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Conteúdo2",
       "autoria": "Autoria2",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Conteúdo4",
       "autoria": "Autoria4",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
+    },
+    {
+      "conteudo": "teste",
+      "autoria": "teste",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "22222",
+      "autoria": "22222222",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "fefsfs",
+      "autoria": "fsefsfsfsef",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 6
     }
   ]
 }
